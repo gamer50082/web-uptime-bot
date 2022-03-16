@@ -1,13 +1,13 @@
 {
   "token": "",
-  "prefix": ">",
+  "prefix": "!!",
   "activity_type": "watching",
-  "activity_name": "services",
+  "activity_name": "BITS Minigame",
   "disable_help": false,
-  "hide_ips": true,
+  "hide_ips": false,
   "notification_channel": 1234,
-  "retries": 0,
+  "retries": 2,
   "role_to_mention": 1234,
-  "secs_between_ping": 30,
+  "secs_between_ping": 15,
   "timeout": 5
 }
